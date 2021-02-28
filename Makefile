@@ -2,7 +2,7 @@
 VERSION = 5
 PATCHLEVEL = 11
 SUBLEVEL = 2
-EXTRAVERSION = -arch1
+EXTRAVERSION = 
 NAME = 💕 Valentine's Day Edition 💕
 
 # *DOCUMENTATION*
